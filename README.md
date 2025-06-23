@@ -4,7 +4,7 @@ Hi, I’m a Data Engineer with 6+ years of experience turning messy data into cl
 
 ## 🍻 Cheers to Clean Data!
 
-<p align="center">
+<p align="LEFT">
   <img src="./cheers.gif" alt="Cheers Beer GIF" width="250"/>
 </p>
 
