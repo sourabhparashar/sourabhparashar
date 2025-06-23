@@ -4,17 +4,7 @@ Hi, I’m a Data Engineer with 6+ years of experience turning messy data into cl
 
 ## 🍻 Cheers to Clean Data!
 
-<p align="LEFT">
-  <img src="./cheers.gif" alt="Cheers Beer GIF" width="250"/>
-</p>
-
-A small toast to every data pipeline that didn’t break on Monday morning.
 ![Data Animation](./Animation%20-%201750700056438%20(2).gif)
-
-
-## 🍻 Cheers to Clean Data!
-
-![Cheers Beer GIF](./cheers.gif)
 
 A small toast to every data pipeline that didn’t break on Monday morning.
 
