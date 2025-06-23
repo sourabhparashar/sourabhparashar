@@ -2,6 +2,14 @@
 # 💫 About Me:
 Hi, I’m a Data Engineer with 6+ years of experience turning messy data into clean, useful insights—kind of like a digital janitor with a love for Python and SQL.<br><br>I build pipelines that don’t leak, optimize queries like they owe me money, and wrangle data from all kinds of wild sources. Whether it's ETL, ELT, or just making dashboards behave, I’m your go-to problem solver.<br><br>My toolbox? Spark, Airflow, AWS, Azure, Docker, a bit of sarcasm, and a strong coffee habit.<br><br>I enjoy making complex systems run smoothly and explaining things without buzzwords (unless absolutely necessary). When I’m not coding, you’ll find me automating something I was too lazy to do twice.<br><br>Always down to chat, debug, or brainstorm the next data-powered idea.
 
+## 🍻 Cheers to Clean Data!
+
+<p align="center">
+  <img src="./cheers.gif" alt="Cheers Beer GIF" width="250"/>
+</p>
+
+A small toast to every data pipeline that didn’t break on Monday morning.
+
 ## 🎞️ Fun with Data!
 ![Data Animation](./Animation%20-%201750700056438%20(2).gif)
 
