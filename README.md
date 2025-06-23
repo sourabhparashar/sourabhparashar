@@ -9,8 +9,6 @@ Hi, I’m a Data Engineer with 6+ years of experience turning messy data into cl
 </p>
 
 A small toast to every data pipeline that didn’t break on Monday morning.
-
-## 🎞️ Fun with Data!
 ![Data Animation](./Animation%20-%201750700056438%20(2).gif)
 
 ## 🌐 Socials:
