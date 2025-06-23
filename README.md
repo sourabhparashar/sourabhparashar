@@ -23,8 +23,6 @@ Check out my full portfolio here:
 ## 📁 Featured Projects
 
 - [Project Portfolio](https://sourabhparashar430.wixsite.com/site/s-projects-basic) – Four data engineering projects demonstrating ETL pipelines, streaming, data warehouses, and dashboards.
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sourabhparashar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
