@@ -11,6 +11,13 @@ Hi, I’m a Data Engineer with 6+ years of experience turning messy data into cl
 A small toast to every data pipeline that didn’t break on Monday morning.
 ![Data Animation](./Animation%20-%201750700056438%20(2).gif)
 
+
+## 🍻 Cheers to Clean Data!
+
+![Cheers Beer GIF](./cheers.gif)
+
+A small toast to every data pipeline that didn’t break on Monday morning.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhpbodige) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourabhparashar430@gmail.com) 
 
