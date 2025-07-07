@@ -1,6 +1,24 @@
 
-# 💫 About Me:
-Hi, I’m a Data Engineer with 6+ years of experience turning messy data into clean, useful insights—kind of like a digital janitor with a love for Python and SQL.<br><br>I build pipelines that don’t leak, optimize queries like they owe me money, and wrangle data from all kinds of wild sources. Whether it's ETL, ELT, or just making dashboards behave, I’m your go-to problem solver. My toolbox? Spark, Airflow, AWS, Azure, Docker, a bit of sarcasm, and a strong coffee habit.<br><br>I enjoy making complex systems run smoothly and explaining things without buzzwords (unless absolutely necessary). When I’m not coding, you’ll find me automating something I was too lazy to do twice. Always down to chat, debug, or brainstorm the next data-powered idea. <br><br>A small toast to every data pipeline that didn’t break on Monday morning.
+## 💫 About Me
+
+Hey there! I'm Sunny, an AI/ML Engineer and former Data Scientist/Analyst with 6+ years of experience turning raw, chaotic data into insights that actually help people make decisions.
+
+I’ve worked across healthcare, finance, and telecom — building fraud detection models at HSBC, optimizing hospital operations at Apollo, and currently designing anomaly detection systems at Verizon to prevent revenue leakage. Whether it’s a predictive model, a real-time dashboard, or an ETL pipeline that just *works*, I’m the person who makes it happen.
+
+🧰 My toolkit includes:  
+Python • SQL • Azure • PySpark • Airflow • Power BI • Tableau • TensorFlow • Scikit-learn • SHAP • Azure ML Studio
+
+I like solving hard problems, automating boring stuff, and making sure pipelines don’t break on Monday morning. I write code that talks to data and build systems that talk to people.
+
+If you’re into clean data, honest dashboards, and ML models that pull their weight — we’ll get along just fine.
+
+☕ Currently working on:  
+- Smarter anomaly detection models  
+- Scalable, production-ready ML pipelines  
+- Using less buzzwords and more logic
+
+Let’s connect, collab, or debug something together.
+
 
 ![Funny Data Engineer](./z3g5PkvZDS.gif)
 ## 🌐 Socials:
