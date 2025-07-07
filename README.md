@@ -17,7 +17,6 @@ If you’re into clean data, honest dashboards, and ML models that pull their we
 - Scalable, production-ready ML pipelines  
 - Using less buzzwords and more logic
 
-Let’s connect, collab, or debug something together.
 
 
 ![Funny Data Engineer](./z3g5PkvZDS.gif)
